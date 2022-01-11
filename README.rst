@@ -1,4 +1,6 @@
 Game Development Wiki
 =====================
 
-This wiki will contain knowledge I pick up on my journey as a game developer.
+**GameDevelopmentWiki** is a wiki containing information on various topics about game development.
+
+The GameDevelopmentWiki pages can be accessed at https://gamedevelopmentwiki.readthedocs.io/en/latest/
