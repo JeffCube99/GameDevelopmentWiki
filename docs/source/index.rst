@@ -1,7 +1,7 @@
 Welcome to the Game Development Wiki!
 =====================================
 
-This wiki contains all my notes about game development
+**GameDevelopmentWiki** is a wiki containing information on various topics about game development.
 
 .. note::
 
