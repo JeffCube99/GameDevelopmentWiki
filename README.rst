@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
-=======================================
+Game Development Wiki
+=====================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This wiki will contain knowledge I pick up on my journey as a game developer.
