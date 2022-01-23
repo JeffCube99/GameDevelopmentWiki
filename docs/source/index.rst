@@ -16,5 +16,9 @@ Links to Individual Wikis
 Contents
 --------
 
-.. toctree::
+..  toctree::
+    :maxdepth: 2
+    :caption: Contents:
 
+    production_cycle/index.rst
+    community/index.rst
