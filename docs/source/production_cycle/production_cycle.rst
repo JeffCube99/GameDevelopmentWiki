@@ -4,7 +4,7 @@ Game Production Cycle
 
 Taken from https://learn.unity.com/tutorial/the-real-time-production-cycle
 
-..  image:: /images/production_cycle.png
+..  image:: /_images/production_cycle.png
 
 ..  contents::
     :local:
@@ -71,7 +71,7 @@ Goals
 Roles
 -----
 
-..  image:: /images/roles.png
+..  image:: /_images/roles.png
 
 *   **Producer**: Overseas development of the entire project. Makes sure teams are hitting critical deadlines.
     Prevents feature creep (see below).
