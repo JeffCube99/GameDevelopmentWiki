@@ -6,3 +6,4 @@ Community
     :caption: Contents:
 
     quick_reference.rst
+    assets.rst

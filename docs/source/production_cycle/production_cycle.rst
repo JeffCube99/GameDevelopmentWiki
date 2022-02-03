@@ -1,3 +1,5 @@
+.. _Production Cycle:
+
 =====================
 Game Production Cycle
 =====================
@@ -19,6 +21,7 @@ Goals
     the intended target audience, and accessibility.
 *   Get all team members on the same page about the look and feel of the game.
 *   Determine the product timeline. Assign owners to tasks that must be completed.
+*   For more technical goals see :ref:`Pre Production Technical Pipeline`
 
 
 What Can Go Wrong
@@ -66,6 +69,7 @@ Goals
     *   Storyboards transformed into animations.
     *   Prototypes transformed into functional applications.
     *   Feature lists transformed into playable experiences
+*   For more technical goals see :ref:`Production Technical Pipeline`
 
 
 Roles
