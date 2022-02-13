@@ -12,6 +12,7 @@ Links to Individual Wikis
 
 *   `UnityWiki <https://unitywiki.readthedocs.io/en/latest/>`_
 *   `UnrealEngineWiki <https://unrealenginewiki.readthedocs.io/en/latest/>`_
+*   `WikiHub <https://wikihub.readthedocs.io/en/latest/>`_
 
 Contents
 --------

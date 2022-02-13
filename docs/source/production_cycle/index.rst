@@ -9,3 +9,4 @@ Production Cycle
     production_cycle.rst
     qa_testing.rst
     game_development_pipeline.rst
+    user_testing_and_feedback.rst
