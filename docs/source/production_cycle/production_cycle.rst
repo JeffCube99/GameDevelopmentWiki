@@ -22,6 +22,7 @@ Goals
 *   Get all team members on the same page about the look and feel of the game.
 *   Determine the product timeline. Assign owners to tasks that must be completed.
 *   For more technical goals see :ref:`Pre Production Technical Pipeline`
+*   Make improvements to the game concept from user feedback (See :ref:`User Testing and Feedback`).
 
 
 What Can Go Wrong
@@ -70,6 +71,7 @@ Goals
     *   Prototypes transformed into functional applications.
     *   Feature lists transformed into playable experiences
 *   For more technical goals see :ref:`Production Technical Pipeline`
+*   Make improvements to the game from user feedback (See :ref:`User Testing and Feedback`).
 
 
 Roles
@@ -107,7 +109,8 @@ Post-production
 Goals
 -----
 
-*   Evalueate the product and make proper edits and fixes prior to release.
+*   Evaluate the product and make proper edits and fixes prior to release.
+*   Make improvements to the game from user feedback (See :ref:`User Testing and Feedback`).
 *   Conduct Alpha and Beta testing to uncover things that need to be fixed.
 
     *   **Alpha Testing**: Used for identifying issues and areas of improvement.
@@ -128,7 +131,8 @@ Operations
 Goals
 -----
 
-*   **Support the game**: dealing with incoming questions, requests, and problems from users and partners
+*   **Support the game**: dealing with incoming questions, requests, and problems from users and partners.
+    Make improvements to the game from user feedback (See :ref:`User Testing and Feedback`).
 *   **Monetize the game**: in-app purchases and advertising within the game or app to bring in revenue
 *   **Analyze user information**: tracking and analyzing user data to inform any needed changes to the game’s
     functionality, marketing, or business strategy

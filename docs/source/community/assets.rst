@@ -2,15 +2,10 @@
 Game Assets
 ===========
 
-Links to find / create some great game assets.
+The following spreadsheet has links to websites where you can find game assets. It also includes websites
+that you can use create your own assets.
+(`Link to spreadsheet <https://docs.google.com/spreadsheets/d/1SV6S0-yl3YUd6QwOfoVhVWVEY2gZMDe0LEoAMo9Q4Ug/edit?usp=sharing>`_).
 
-`Unity Asset Store <https://assetstore.unity.com/>`_: Free and paid game assets
-`Kenney <https://www.kenney.nl/>`_: Sprites, 3D Models, sound effects with no strings attached.
-`BeepBox <https://www.beepbox.co/>`_: An online tool for sketching and sharing instrumental music.
-`Font Library <https://fontlibrary.org/>`_: Useful fonts with open and free licenses.
-`MixKit <https://mixkit.co/>`_: Free stock video, music, sound effects, video templates.
-`Free Skybox Textures <https://kindaw.itch.io/skybox-textures>`_: Free skybox textures distributed on itch.io
-`FreeIcons.io <https://freeicons.io/>`_: Database of free icons.
-`OpenGameArt.Org <https://opengameart.org/>`_: 2D/3D art, Textures, Music, Sound effects
-`BandCamp <https://bandcamp.com/>`_: Purchase music
-`SketchFab <https://sketchfab.com/>`_: Purchase 3D models
+..  raw:: html
+
+    <iframe width='100%' height='700' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSL4cj3O4E-4SoTOFa6ZW7qQtKy5anwn6RI2l-ODU_ImFmKrBQ-KGsGZkbFWbSR_JwFIE4D11o523Oy/pubhtml?widget=true&amp;headers=false"></iframe>
