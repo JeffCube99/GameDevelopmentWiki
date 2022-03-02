@@ -18,7 +18,7 @@ Goals
 -----
 
 *   Establish how the game is going to look and feel. Establish the story, the gameplay, the art direction,
-    the intended target audience, and accessibility.
+    the intended target audience, and accessibility. (See :ref:`Game Design`)
 *   Get all team members on the same page about the look and feel of the game.
 *   Determine the product timeline. Assign owners to tasks that must be completed.
 *   For more technical goals see :ref:`Pre Production Technical Pipeline`
