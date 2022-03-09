@@ -7,3 +7,4 @@ Career
 
     career_research.rst
     portfolios.rst
+    dream_job.rst
