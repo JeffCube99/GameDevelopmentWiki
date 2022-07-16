@@ -23,6 +23,12 @@ Goals
 *   If your game was based on a prototype, throw out the prototype code and build the game from scratch. Often prototypes contain
     hacky code for getting the game produced quickly without considering performance. Basing the game on a bunch
     of hacks is not a good start for any project.
+
+    ..  note::
+
+        If you are interested in prototyping a game concept first before committing to developing a full game
+        see :ref:`Prototyping`
+
 *   Check that all planned features work on all target platforms (e.g. Mac, Windows, WebGL). Consider contratins regarding
     memory management, multithreading, networking, and plugin support.
 *   Establish minimally supported devices (consoles, web browsers) for your project. These should then be available
