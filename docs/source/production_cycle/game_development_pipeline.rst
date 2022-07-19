@@ -49,6 +49,9 @@ Goals
     that automatically creates a build of your game when changes are pushed through by a developer.
 *   Establish a process for publishing features to the release build -> testing new builds (with test automation) ->
     recording statistics for key performance indicators.
+*   If you plan on releasing your game in a marketplace like the Apple app store, make sure to review
+    the markeptlace's guidelines to make sure your game adheres to their requirements. These guidelines
+    can include sections regarding saftey, game design, and performance.
 
 Unity Specific Goals
 ^^^^^^^^^^^^^^^^^^^^
