@@ -51,7 +51,7 @@ Goals
     recording statistics for key performance indicators.
 *   If you plan on releasing your game in a marketplace like the Apple app store, make sure to review
     the markeptlace's guidelines to make sure your game adheres to their requirements. These guidelines
-    can include sections regarding saftey, game design, and performance.
+    can include sections regarding safety, game design, and performance.
 
 Unity Specific Goals
 ^^^^^^^^^^^^^^^^^^^^
