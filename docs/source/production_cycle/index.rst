@@ -11,3 +11,4 @@ Production Cycle
     game_development_pipeline.rst
     user_testing_and_feedback.rst
     game_design.rst
+    prototyping.rst

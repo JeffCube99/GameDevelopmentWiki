@@ -1,3 +1,5 @@
+.. _Game_Assets:
+
 ===========
 Game Assets
 ===========

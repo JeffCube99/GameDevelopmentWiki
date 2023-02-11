@@ -24,6 +24,11 @@ Goals
 *   For more technical goals see :ref:`Pre Production Technical Pipeline`
 *   Make improvements to the game concept from user feedback (See :ref:`User Testing and Feedback`).
 
+..  note::
+
+    If you are interested in prototyping a game concept first before committing to developing a full game
+    see :ref:`Prototyping`
+
 
 What Can Go Wrong
 -----------------
@@ -35,6 +40,8 @@ What Can Go Wrong
 
 Resources
 ---------
+
+.. _Design_Documents:
 
 Design Documents
 ^^^^^^^^^^^^^^^^
@@ -48,6 +55,7 @@ producers and project managers to track design and development progress.
 
     *   `Project Design Document Template #1 <https://docs.google.com/document/d/1FR-GYr2hL67d6MleWTTP-mXfCHVZTM1Mko77MFodxFg/edit>`_
     *   `Project Design Document Template #2 <https://docs.google.com/document/d/10lPZ95ViLsOLUKEqLehxSorp7qNQQs-ulBgQq7R5Uws/edit>`_
+    *   `Project Design Document Template #3 <https://docs.google.com/document/d/1yrwQGJw8-_Bmg9jUyaiG6afk75lRJdHWg9EEyMRYqx4/edit?usp=sharing>`_
 
 *   For larger projects:
 
