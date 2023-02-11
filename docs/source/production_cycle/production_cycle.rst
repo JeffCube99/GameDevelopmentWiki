@@ -44,8 +44,14 @@ Be careful not to propose too many features to keep your timeline realistic. Thi
 source of truth that outlines specific requirements for the experience you want to create. This will also assist
 producers and project managers to track design and development progress.
 
-*   `Project Design Document Template #1 <https://docs.google.com/document/d/1FR-GYr2hL67d6MleWTTP-mXfCHVZTM1Mko77MFodxFg/edit>`_
-*   `Project Design Document Template #2 <https://docs.google.com/document/d/10lPZ95ViLsOLUKEqLehxSorp7qNQQs-ulBgQq7R5Uws/edit>`_
+*   For small projects:
+
+    *   `Project Design Document Template #1 <https://docs.google.com/document/d/1FR-GYr2hL67d6MleWTTP-mXfCHVZTM1Mko77MFodxFg/edit>`_
+    *   `Project Design Document Template #2 <https://docs.google.com/document/d/10lPZ95ViLsOLUKEqLehxSorp7qNQQs-ulBgQq7R5Uws/edit>`_
+
+*   For larger projects:
+
+    *   `Project Design Document Template #3 <https://docs.google.com/document/d/1yrwQGJw8-_Bmg9jUyaiG6afk75lRJdHWg9EEyMRYqx4/edit?usp=sharing>`_
 
 
 Project Charters
