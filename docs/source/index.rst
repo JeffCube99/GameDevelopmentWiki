@@ -24,3 +24,4 @@ Contents
     production_cycle/index.rst
     community/index.rst
     career/index.rst
+    business/index.rst
