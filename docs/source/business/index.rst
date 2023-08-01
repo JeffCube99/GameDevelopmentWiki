@@ -6,3 +6,4 @@ Business
     :caption: Contents:
 
     freemium_game_tips.rst
+    gamification.rst
