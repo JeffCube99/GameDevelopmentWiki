@@ -21,6 +21,7 @@ Contents
     :maxdepth: 2
     :caption: Contents:
 
+    accessibility/index.rst
     production_cycle/index.rst
     community/index.rst
     career/index.rst
