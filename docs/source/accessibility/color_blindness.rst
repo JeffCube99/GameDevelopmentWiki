@@ -30,6 +30,7 @@ Ways to Support Color Blindness
 
 *   Use Color Blindness simulator tools while you develop your game
 
+    *   `Simulating Color Blindness In Unity (URP) <https://gamedevelopmentwiki.readthedocs.io/projects/unitywiki/en/latest/game_architecture/accessibility.html#simulating-color-blindness-in-unity-urp>`_
     *   https://www.color-blindness.com/coblis-color-blindness-simulator/
     *   https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/colorblind-effect-76360#description
 
