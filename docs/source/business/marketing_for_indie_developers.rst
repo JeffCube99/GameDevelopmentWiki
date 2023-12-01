@@ -2,6 +2,9 @@
 Marketing For Indie Developers
 ##############################
 
+..  contents::
+    :local:
+
 Marketing Tools
 ###############
 
