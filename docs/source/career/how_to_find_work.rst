@@ -13,6 +13,7 @@ Places To Find Job Postings At Indie Studios
 
     *   https://workwithindies.com/
     *   https://remotegamejobs.com/
+    *   https://ghostcareers.com/
 
 *   General Job Posting Sites you can filter for game dev positions
 
