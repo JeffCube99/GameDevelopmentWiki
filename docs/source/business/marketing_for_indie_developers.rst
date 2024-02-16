@@ -35,10 +35,11 @@ Resources
 *   Chris Zuzowski: `howtomarketagame.com <https://howtomarketagame.com/>`_
 *   `Game Discovery Co. <https://gamediscover.co/>`_: Games marketing news, data, analysis newsletter.
 *   `Catapult.gg <https://catapult.gg/>`_: Distribute your games to Influencers when you are on a budget.
+*   `Thomas Brush Youtube Channel <https://www.youtube.com/@thomasbrush>`_: Advice for indie game developers
 
 
-Marketing Strategies
-####################
+Marketing Strategies Part 1
+###########################
 
 Focus on Game Highlights
 ************************
@@ -261,3 +262,78 @@ Instagram Reels
 
 *   Have a mute feature so many videos are very visual with subtitles and very sharable since instagram focuses
     more on users sharing content with each other.
+
+
+Marketing Strategies Part 2
+###########################
+
+Tips from Thomas Brush: `5 Indie Game Marketing Hacks With NO MONEY <https://youtu.be/otza1Eg5AsY?si=Ic5tEiaEFiRZKXbA>`_
+
+Don't rely on the idea that a good game will sell itself.
+
+Put Together A Press List
+*************************
+
+*   A press list consists of 200-300 personal email addresses.
+*   Each email consists of a persons name and company
+*   These addresses belong to freelance writers, game reviewers, and other individuals that can potentially write articles
+    about your game.
+*   You can find press lists online but these addresses are saturated with requests so you should
+    look elsewhere.
+*   You should try to find game journalists that will potentially like your work
+    or play games in similar generes to yours.
+*   Metacritic is a great place to find game reviewers.
+*   Additionally, gather a press list of about 200 youtubers. Target youtubers with 20k+ subscribers.
+*   Send out a press release to these addresses asking them to review your game. This message should
+    include a press kit link. It should be immediately visible in your email and you want it to have everything
+    this individual needs to write an article about your game. (screenshots, description, bio, email, trailer, logo, everything)
+    They shouldn't have to email you back about extra information.
+
+Post to Reddit
+**************
+
+*   Post about your game on reddit
+*   The title of your post should be personal:
+
+    *   Bad Example: "Here's my game check it out its only 15 bucks"
+    *   Good Example: "For 10 years I have wanted to make games. Today i am launching my game and it is a dream come true"
+
+*   Include a beautiful 5 second animated gif
+
+Get YouTubers Involved In Your Game
+***********************************
+
+..  important::
+
+    DON'T ASK YOUTUBERS TO PLAY YOUR GAME! (Not immediately anyway)
+
+
+*   Get youtubers involved by
+
+    *   Asking them if they want to be a voice actor in your game.
+    *   Asking them if they want to be a character in your game.
+    *   Ask them if they would like to critique your game.
+    *   Ask them for their opinion about your game.
+
+If You Are On Kickstarter, Work With Other KickStarter Campaigns
+****************************************************************
+
+*   Find other kickstarter campaigns that were successful and ask them to assist
+*   For example, if you post my campaign to your campaign followers and let them know
+    they can get their hands on a free soundtrack, game, etc.
+*   Use this to get more people to pre order your game.
+
+What Not To Do
+**************
+
+*   Dont spend too much effort targeting a single famous people to tweet about your game.
+*   If you can get hundreds of retweets or a very famous video game streamer to tweet about your
+    game then go for it. Unfortunately accounts with even 100k followers might not have that great
+    engagement with their audiences.
+*   Don't pay youtubers to play your games especially if they have less than 5k subscribers.
+*   For larger youtubers the price you would have to pay may be more than the sales you make from
+    that engagement. It could be worth it if you manage to get a discounted rate.
+*   Don't pour too much effort into your website. Focus more on your presskit page.
+
+
+
